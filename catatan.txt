@@ -1,0 +1,6 @@
+untuk munculkan folder lag 
+"php artisan lang:publish"
+
+untuk membuat role 
+"php artisan make:rule NamaRule"
+
